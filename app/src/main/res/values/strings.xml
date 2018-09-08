@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SottoRebbLab2</string>
+    <string name="location">Location:</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="alabang_town_center">Alabang Town Center</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
